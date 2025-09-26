@@ -104,7 +104,7 @@ Demo GIF for showcasing usability.
 
 Clone this repository
 
-git clone https://github.com/your-username/salary-dashboard.git
+git clone https://github.com/pranay-125/Career_Insight_Dashboard.git
 cd salary-dashboard
 
 
