@@ -38,20 +38,25 @@ Clean visualization with an intuitive layout.
 
 
 
-📂 Repository Structure
+**📂 Repository Structure**
+
 File	Description
+
 data_jobs_salary_all.xlsx	
+
 Raw dataset containing job titles and corresponding salary information. This file serves as the source data for analysis.
 
 Salary_Dashboard.xlsx	
+
 Interactive Excel dashboard that pulls data from the dataset file, processes it through Pivot Tables and slicers, and presents it visually.
 
 1_Salary_Dashboard_Data_Validation.gif	
+
 Animated preview of the dashboard’s interactive features for quick reference.
 
 
 
-🚀 Features & Highlights
+**🚀 Features & Highlights**
 
 ✔ Interactive Dashboard – Select different job titles and instantly see updated salary comparisons.
 ✔ Data Validation – Ensures consistent and clean data entry for reliable analysis.
@@ -61,7 +66,7 @@ Animated preview of the dashboard’s interactive features for quick reference.
 
 
 
-🔎 Methodology
+**🔎 Methodology**
 
 Data Collection
 
@@ -95,7 +100,7 @@ Demo GIF for showcasing usability.
 
 
 
-🖥️ How to Use
+**🖥️ How to Use**
 
 Clone this repository
 
@@ -119,7 +124,7 @@ Modify or expand the dataset if you want to analyze more roles.
 
 
 
-📊 Example Insights
+**📊 Example Insights**
 
 Data Scientists and Machine Learning Engineers often show higher salary ranges compared to Data Analysts.
 
@@ -129,7 +134,7 @@ Interactive filtering allows region/company-level analysis (if added in dataset)
 
 
 
-🔧 Requirements
+**🔧 Requirements**
 
 Microsoft Excel 2016 or later (Office 365 recommended).
 
@@ -149,7 +154,7 @@ No external libraries or installations required.
 
 
 
-🤝 Contributing
+**🤝 Contributing**
 
 We welcome contributions! You can:
 
